@@ -6,8 +6,6 @@
 - 🔭 I’m currently working on **License plate detector & reader**
 
 - 🌱 I’m currently learning **Django, Data Science and ML**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
