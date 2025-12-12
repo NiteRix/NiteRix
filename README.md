@@ -1,5 +1,31 @@
 # 💫 About Me:
-🔭 I’m currently working on License plate detector & reader<br>🌱 I’m currently learning Django, Data Science and ML<br>
+Hi, I'm NiteRix!<br>
+I'm an AI student with many skills and many arduino projects ive built by hand over the years<br>
+## Learning Roadmap
+### Computer Vision & AI (Month 1–3)**
+
+**Goal:** Make OCR and object detection more robust and professional.
+
+**Topics:**
+- **Computer Vision**
+  - OpenCV: contours, masks, adaptive thresholding, perspective transforms
+  - Object tracking: SORT / DeepSORT
+  - Real-time video preprocessing for AI inference
+- **Deep Learning**
+  - PyTorch basics → model creation, training, evaluation
+  - Transfer learning: fine-tune YOLO or other models
+  - Model optimization: quantization, pruning
+- **OCR & Text Processing**
+  - Post-processing OCR outputs (regex, string normalization)
+  - Handle Arabic text correctly (RTL, Unicode)
+  - Combine multiple OCR engines for accuracy
+
+**Practice Projects:**
+- Upgrade license plate OCR to separate connected letters automatically
+- Build a small AI pipeline that runs inference on live video and shows results on-screen
+
+
+
 
 
 # 💻 Tech Stack:
